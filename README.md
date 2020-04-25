@@ -1,0 +1,2 @@
+# EaseBanking_BankManagementSoftware
+The Ease Banking Management System is an application for maintaining a person's account in a  bank.  This project shows the working of a  banking account system and covers the basic functionality of an Ease Banking Management System. To develop a project for solving financial applications of a customer in banking environment in order to nurture the needs of an end banking user by providing various ways to perform banking tasks. Likewise, to empower the client's work space to have extra functionalities.
